@@ -1,9 +1,9 @@
 # Basic
 title: Ann的小屋
 subtitle: 凡事当做则作，若一味因循，大误终身
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">欢迎来到 Ann的小屋！</a>
+welcome_message: <a href="https://github.com/AnXiaoye1/AnXiaoye1.github.io" target="_blank">欢迎来到 Ann的小屋！</a>
 description: 接下来，与你同行
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://www.anxiaoye.xyz">@AnXiaoye</a>
 
 url: "https://www.anxiaoye.xyz/"
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: orange
+cover_color: lime
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 关于, description: 关于作者, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -40,7 +40,7 @@ social:
     weibo: 北梦木南思伊
     github: AnXiaoye1
     twitter: 
-    gplus: 107108267983477358170
+    gplus: 
     mail: zhuye95911@gmail.com
 
 # Google Analytics
